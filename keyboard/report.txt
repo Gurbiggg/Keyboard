@@ -1,0 +1,23 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-F_Cu.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-B_Cu.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-F_Paste.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-B_Paste.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-F_Silkscreen.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-B_Silkscreen.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-F_Mask.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-B_Mask.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-Edge_Cuts.gbr'.
+Created Gerber job file '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-job.gbrjob'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-F_Cu.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-B_Cu.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-F_Paste.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-B_Paste.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-F_Silkscreen.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-B_Silkscreen.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-F_Mask.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-B_Mask.gbr'.
+Plotted to '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-Edge_Cuts.gbr'.
+Created Gerber job file '/home/gurbiggg/Downloads/Keyboard-main/keyboard/keyboard-job.gbrjob'.
+Info: Done.
+Info: Done.
